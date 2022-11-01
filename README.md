@@ -34,8 +34,6 @@ random_number = round(random() * number_range)
 
 ![guessthenumberbyuser](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Python/Imagenes/guessthenumber-2.jpg)
 
-![guessthenumberbyuser](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Python/Imagenes/guessthenumber-3.jpg)
-
 ## Portfolio Link
 
 `https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Guess%20the%20number%20by%20User%20script`
