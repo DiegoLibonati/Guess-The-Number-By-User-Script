@@ -28,7 +28,7 @@ I made a python script that allows the user to try to guess a number that an AI 
 
 ## Portfolio Link
 
-`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Guess%20the%20number%20by%20User%20script`
+`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Guess%20The%20Number%20By%20User%20Script`
 
 ## Video
 
